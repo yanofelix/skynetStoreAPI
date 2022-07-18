@@ -1,0 +1,13 @@
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\bin\Debug\netcoreapp3.1\Core.deps.json
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.json
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\bin\Debug\netcoreapp3.1\Core.runtimeconfig.dev.json
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\bin\Debug\netcoreapp3.1\Core.dll
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\bin\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\obj\Debug\netcoreapp3.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfoInputs.cache
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\obj\Debug\netcoreapp3.1\Core.AssemblyInfo.cs
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\obj\Debug\netcoreapp3.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\obj\Debug\netcoreapp3.1\Core.dll
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\obj\Debug\netcoreapp3.1\Core.pdb
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\obj\Debug\netcoreapp3.1\Core.genruntimeconfig.cache
+C:\Users\Yan\Desktop\workspace\HellcifeRifas\api\Core\obj\Debug\netcoreapp3.1\Core.csproj.AssemblyReference.cache
